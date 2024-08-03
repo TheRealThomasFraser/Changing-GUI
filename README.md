@@ -1,6 +1,6 @@
 <h1> Changing GUI </h1>
 
-<h2> This project is completed! ✅</h2>
+<h2> This project is complete! ✅</h2>
 
 <h2> About 💬 </h2>
 
